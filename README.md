@@ -3,11 +3,11 @@
 
 
 # Clonez le dépôt de l'application
-```git clone https://github.com/Ehya-Ag/exercice1-express.git```
+```git clone https://github.com/Ehya-Ag/gestion-commande-express.git```
 
 # Accédez au répertoire du dépôt
 
-```cd exercice1-express ```
+```cd gestion-commande-express ```
 
 # Installez les dépendances nécessaires
 ```npm install```
